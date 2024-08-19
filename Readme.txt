@@ -16,5 +16,5 @@ Este proyecto tiene como finalidad aprender la estructura básica de html.
 #Ejecucion#
 Para abrir la pagina web puede:
 Opcion 1: Descargar el archivo .html y ejecutarlo mediante un navegador
-Opcion 2: Acceder desde el siguiente link
+Opcion 2: Acceder desde el siguiente link https://tuteseta.github.io/Desarrollo_Software/
 
