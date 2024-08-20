@@ -11,7 +11,7 @@ Este proyecto tiene como finalidad aprender la estructura básica de html.
 6- Tablas: A traves del comando <table> y pude crear una tabla con sus respectivas filas y columnas. 
 7- Formulario: Al final en el pie de pagina puse un formulario en donde se puede enviar nombre, mail y comentarios.
 8- Semantica HTML: Luego de aplicar los conceptos mencionados anteriormente utilice diversos comandos como <header>, <nav>, <section>, <article>, <aside>, y <footer> para 
-		   darle una mejor lectura a las partes del codigo y entenderlo de forma mas sencilla.
+darle una mejor lectura a las partes del codigo y entenderlo de forma mas sencilla.
 
 #Ejecucion#
 Para abrir la pagina web puede:
