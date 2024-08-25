@@ -16,5 +16,5 @@ darle una mejor lectura a las partes del codigo y entenderlo de forma mas sencil
 #Ejecucion#
 Para abrir la pagina web puede:
 Opcion 1: Descargar el archivo .html y ejecutarlo mediante un navegador
-Opcion 2: Acceder desde el siguiente link https://tuteseta.github.io/Desarrollo_Software/
+Opcion 2: Acceder desde el siguiente link https://tuteseta.github.io/Tp-1/
 
